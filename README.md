@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="public/assets/images/icon.png" />
   <h1>Balf games</h1>
 </div>
-A website with tons of games, apps, built-in proxy, emulator, and more fun goodies. If you fork this repository, please consider giving it a star ⭐!
-Try out our site at balf-games.vercel.app!
+Unblocked tester for VAHS specific for Drew and Sam you are Alien overlords and supreme leaders 👽!
+Try balf-games.vercel.app!
 
 ## Deploy to a cloud service
 Currently i've only tested this on vercel and it works fine.
