@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Balf games</h1>
+  <h1>Alien Games</h1>
 </div>
 Unblocked tester for VAHS specific for Drew and Sam you are Alien overlords and supreme leaders 👽!
 Try balf-games.vercel.app!
